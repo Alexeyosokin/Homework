@@ -1,12 +1,15 @@
 #Задание "Слишком древний шифр":
-n = int(input("Введите число n (от 3 до 20): "))
-def generate_pairs(n):
-    pairs = []
-    for i in range(1, n):
-        for j in range(i + 1, n):
-            if i + j == n and i not in [pair for pair in pairs for number in pair]:
-                pairs.append((i, j))
-    return pairs
-pairs = generate_pairs(n)
-result = "".join([str(pair[0]) + str(pair[1]) for pair in pairs])
-print(f"Пароль для числа {n}: {result}")
+n = int(input('Введите целое число от 3 до 20: '))
+def get_password(number):
+    password = ''
+    for i in range(1, number):
+        for j in range(2, number):
+            if j <= i:
+                continue
+            if number % (i + j) == 0:
+                password += str(i) + str(j)
+    return password
+
+
+result = get_password(n)
+print('Пароль:', result)
