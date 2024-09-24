@@ -5,9 +5,9 @@ def print_params(a=1, b='строка', c=True):
 #Вызовите функцию print_params с разным количеством аргументов, включая вызов без аргументов.
 #Проверьте, работают ли вызовы print_params(b = 25) print_params(c = [1,2,3])
 print('1.Функция с параметрами по умолчанию:')
-print_params()  # 1
-print_params(b=25)
-print_params(c=[1, 2, 3])
+print_params ()  # 1
+print_params (b=25)
+print_params (c=[1, 2, 3])
 
 #Создайте список values_list с тремя элементами разных типов.
 #Создайте словарь values_dict с тремя ключами, соответствующими параметрам функции print_params, и значениями разных типов.
