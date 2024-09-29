@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf9f3-e5f9-4242-8b4b-462205e2b152" name="Changes" comment="len test">
-      <change afterPath="$PROJECT_DIR$/Module_1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peremen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_5_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_3_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_5_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +58,10 @@
     "Python.Module_3_5.executor": "Run",
     "Python.Module_3_hard.executor": "Run",
     "Python.Module_4_1.executor": "Run",
+    "Python.Module_4_2.executor": "Run",
+    "Python.Module_5_1.executor": "Run",
+    "Python.Module_5_2.executor": "Run",
+    "Python.Module_5_3.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.main.executor": "Run",
     "Python.true_math.executor": "Run",
@@ -263,7 +262,71 @@
       <option name="project" value="LOCAL" />
       <updated>1727201140969</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727201296603</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201296603</updated>
+    </task>
+    <task id="LOCAL-00024" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727201381538</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201381538</updated>
+    </task>
+    <task id="LOCAL-00025" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727201405479</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201405479</updated>
+    </task>
+    <task id="LOCAL-00026" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727201592382</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201592382</updated>
+    </task>
+    <task id="LOCAL-00027" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727201679193</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201679193</updated>
+    </task>
+    <task id="LOCAL-00028" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727285964320</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727285964320</updated>
+    </task>
+    <task id="LOCAL-00029" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727372682677</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727372682677</updated>
+    </task>
+    <task id="LOCAL-00030" summary="len test">
+      <option name="closed" value="true" />
+      <created>1727539806339</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727539806339</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
